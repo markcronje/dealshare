@@ -9,3 +9,11 @@ one: {}
 #
 two: {}
 #  column: value
+
+jason:
+  first_name: "Jason"
+  last_name: :"Seifer"
+  email: "jasonseifer"
+  password: "password"
+  password_confirmation: "password"
+  
